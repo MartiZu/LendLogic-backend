@@ -5,8 +5,8 @@
       "surname": "Smith",
       "age": 35,
       "email": "jenny.smith@example.com",
-      "salary": "£40,000",
-      "property_value": "£200,000",
+      "salary": "40000",
+      "property_value": "200000",
       "address": {
         "street": "123 Main Street",
         "city": "London",
@@ -19,18 +19,18 @@
         "status": "Outstanding",
         "address_type": "Primary Residence",
         "lender": "ABC Bank",
-        "monthly_payment": "£800",
-        "outstanding_balance": "£150,000",
-        "interest_rate": "3.5%",
+        "monthly_payment": "800",
+        "outstanding_balance": "150000",
+        "interest_rate": "3.5",
         "term_years": 25,
         "next_payment_date": "2023-01-01",
         "insurance": {
           "has_insurance": true,
           "insurance_provider": "XYZ Insurance",
           "policy_number": "P123456789",
-          "coverage": "£200,000"
+          "coverage": "200000"
         },
-        "additional_notes": "Jenny made additional lump sum payments of £5,000 last year."
+        "additional_notes": "Jenny made additional lump sum payments of 5000 last year."
       }
     },
     {
@@ -38,8 +38,8 @@
       "surname": "Johnson",
       "age": 28,
       "email": "kat.johnson@example.com",
-      "salary": "£30,000",
-      "property_value": "£150,000",
+      "salary": "30000",
+      "property_value": "150000",
       "address": {
         "street": "456 Park Avenue",
         "city": "Manchester",
@@ -52,8 +52,8 @@
       "surname": "Brown",
       "age": 40,
       "email": "sam.brown@example.com",
-      "salary": "£50,000",
-      "property_value": "£300,000",
+      "salary": "50000",
+      "property_value": "300000",
       "address": {
         "street": "789 Oak Lane",
         "city": "Birmingham",
@@ -67,79 +67,79 @@
       "postcode": "SW1A 1AA",
       "city": "London",
       "council": "City of Westminster",
-      "value": "£200,000"
+      "value": "200000"
     },
     {
       "postcode": "M1 1AA",
       "city": "Manchester",
       "council": "Manchester City Council",
-      "value": "£150,000"
+      "value": "150000"
     },
     {
       "postcode": "B1 1AA",
       "city": "Birmingham",
       "council": "Birmingham City Council",
-      "value": "£300,000"
+      "value": "300000"
     },
     {
       "postcode": "EC1A 1BB",
       "city": "London",
       "council": "City of London Corporation",
-      "value": "£250,000"
+      "value": "250000"
     },
     {
       "postcode": "W1A 1AA",
       "city": "London",
       "council": "City of Westminster",
-      "value": "£500,000"
+      "value": "500000"
     },
     {
       "postcode": "W6 8AB",
       "city": "London",
       "council": "Hammersmith and Fulham",
-      "value": "£350,000"
+      "value": "350000"
     },
     {
       "postcode": "SE13 5JH",
       "city": "London",
       "council": "Lewisham",
-      "value": "£280,000"
+      "value": "280000"
     },
     {
       "postcode": "CT1 2HX",
       "city": "Canterbury",
       "council": "Canterbury City Council",
-      "value": "£220,000"
+      "value": "220000"
     },
     {
       "postcode": "ME15 6AZ",
       "city": "Maidstone",
       "council": "Maidstone Borough Council",
-      "value": "£180,000"
+      "value": "180000"
     },
     {
       "postcode": "G2 4AA",
       "city": "Glasgow",
       "council": "Glasgow City Council",
-      "value": "£160,000"
+      "value": "160000"
     },
     {
       "postcode": "EH1 1AA",
       "city": "Edinburgh",
       "council": "City of Edinburgh Council",
-      "value": "£190,000"
+      "value": "190000"
     },
     {
       "postcode": "CF10 1AY",
       "city": "Cardiff",
       "council": "Cardiff Council",
-      "value": "£210,000"
+      "value": "210000"
     },
     {
       "postcode": "SA1 1WG",
       "city": "Swansea",
       "council": "Swansea City Council",
-      "value": "£175,000"
+      "value": "175000"
     }
   ]
 }
