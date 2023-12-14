@@ -64,82 +64,305 @@
   ],
   "properties_value": [
     {
+      "id": 1,
       "postcode": "SW1A 1AA",
       "city": "London",
       "council": "City of Westminster",
       "value": "200000"
     },
     {
+      "id": 2,
       "postcode": "M1 1AA",
       "city": "Manchester",
       "council": "Manchester City Council",
       "value": "150000"
     },
     {
+      "id": 3,
       "postcode": "B1 1AA",
       "city": "Birmingham",
       "council": "Birmingham City Council",
       "value": "300000"
     },
     {
+      "id": 4,
       "postcode": "EC1A 1BB",
       "city": "London",
       "council": "City of London Corporation",
       "value": "250000"
     },
     {
+      "id": 5,
       "postcode": "W1A 1AA",
       "city": "London",
       "council": "City of Westminster",
       "value": "500000"
     },
     {
+      "id": 6,
       "postcode": "W6 8AB",
       "city": "London",
       "council": "Hammersmith and Fulham",
       "value": "350000"
     },
     {
+      "id": 7,
       "postcode": "SE13 5JH",
       "city": "London",
       "council": "Lewisham",
       "value": "280000"
     },
     {
+      "id": 8,
       "postcode": "CT1 2HX",
       "city": "Canterbury",
       "council": "Canterbury City Council",
       "value": "220000"
     },
     {
+      "id": 9,
       "postcode": "ME15 6AZ",
       "city": "Maidstone",
       "council": "Maidstone Borough Council",
       "value": "180000"
     },
     {
+      "id": 10,
       "postcode": "G2 4AA",
       "city": "Glasgow",
       "council": "Glasgow City Council",
       "value": "160000"
     },
     {
+      "id": 11,
       "postcode": "EH1 1AA",
       "city": "Edinburgh",
       "council": "City of Edinburgh Council",
       "value": "190000"
     },
     {
+      "id": 12,
       "postcode": "CF10 1AY",
       "city": "Cardiff",
       "council": "Cardiff Council",
       "value": "210000"
     },
     {
+      "id": 13,
       "postcode": "SA1 1WG",
       "city": "Swansea",
       "council": "Swansea City Council",
       "value": "175000"
+    },
+    {
+      "id": 14,
+      "postcode": "LS1 1AA",
+      "city": "Leeds",
+      "council": "Leeds City Council",
+      "value": "240000"
+    },
+    {
+      "id": 15,
+      "postcode": "NE1 1AA",
+      "city": "Newcastle",
+      "council": "Newcastle City Council",
+      "value": "170000"
+    },
+    {
+      "id": 16,
+      "postcode": "EH12 5AA",
+      "city": "Edinburgh",
+      "council": "City of Edinburgh Council",
+      "value": "300000"
+    },
+    {
+      "id": 17,
+      "postcode": "M3 1AA",
+      "city": "Manchester",
+      "council": "Manchester City Council",
+      "value": "220000"
+    },
+    {
+      "id": 18,
+      "postcode": "SW3 1AA",
+      "city": "London",
+      "council": "Royal Borough of Kensington and Chelsea",
+      "value": "550000"
+    },
+    {
+      "id": 19,
+      "postcode": "BS1 1AA",
+      "city": "Bristol",
+      "council": "Bristol City Council",
+      "value": "260000"
+    },
+    {
+      "id": 20,
+      "postcode": "LE1 1AA",
+      "city": "Leicester",
+      "council": "Leicester City Council",
+      "value": "180000"
+    },
+    {
+      "id": 21,
+      "postcode": "NG1 1AA",
+      "city": "Nottingham",
+      "council": "Nottingham City Council",
+      "value": "200000"
+    },
+    {
+      "id": 22,
+      "postcode": "CF24 0AA",
+      "city": "Cardiff",
+      "council": "Cardiff Council",
+      "value": "190000"
+    },
+    {
+      "id": 23,
+      "postcode": "OX1 1AA",
+      "city": "Oxford",
+      "council": "Oxford City Council",
+      "value": "320000"
+    },
+    {
+      "id": 24,
+      "postcode": "AB10 1AA",
+      "city": "Aberdeen",
+      "council": "Aberdeen City Council",
+      "value": "150000"
+    },
+    {
+      "id": 25,
+      "postcode": "S1 1AA",
+      "city": "Sheffield",
+      "council": "Sheffield City Council",
+      "value": "210000"
+    },
+    {
+      "id": 26,
+      "postcode": "SW7 1AA",
+      "city": "London",
+      "council": "Royal Borough of Kensington and Chelsea",
+      "value": "500000"
+    },
+    {
+      "id": 27,
+      "postcode": "BD1 1AA",
+      "city": "Bradford",
+      "council": "City of Bradford Metropolitan District Council",
+      "value": "170000"
+    },
+    {
+      "id": 28,
+      "postcode": "EH3 1AA",
+      "city": "Edinburgh",
+      "council": "City of Edinburgh Council",
+      "value": "280000"
+    },
+    {
+      "id": 29,
+      "postcode": "L1 1AA",
+      "city": "Liverpool",
+      "council": "Liverpool City Council",
+      "value": "230000"
+    },
+    {
+      "id": 30,
+      "postcode": "CT2 7NZ",
+      "city": "Canterbury",
+      "council": "Canterbury City Council",
+      "value": "240000"
+    },
+    {
+      "id": 31,
+      "postcode": "GU1 1AA",
+      "city": "Guildford",
+      "council": "Guildford Borough Council",
+      "value": "320000"
+    },
+    {
+      "id": 32,
+      "postcode": "SW19 1AA",
+      "city": "London",
+      "council": "London Borough of Merton",
+      "value": "420000"
+    },
+    {
+      "id": 33,
+      "postcode": "NR1 1AA",
+      "city": "Norwich",
+      "council": "Norwich City Council",
+      "value": "180000"
+    },
+    {
+      "id": 34,
+      "postcode": "BH1 1AA",
+      "city": "Bournemouth",
+      "council": "Bournemouth, Christchurch and Poole Council",
+      "value": "260000"
+    },
+    {
+      "id": 35,
+      "postcode": "E1 1AA",
+      "city": "London",
+      "council": "Tower Hamlets London Borough Council",
+      "value": "380000"
+    },
+    {
+      "id": 36,
+      "postcode": "WF1 1AA",
+      "city": "Wakefield",
+      "council": "Wakefield District Council",
+      "value": "150000"
+    },
+    {
+      "id": 37,
+      "postcode": "PO1 1AA",
+      "city": "Portsmouth",
+      "council": "Portsmouth City Council",
+      "value": "200000"
+    },
+    {
+      "id": 38,
+      "postcode": "TS1 1AA",
+      "city": "Middlesbrough",
+      "council": "Middlesbrough Council",
+      "value": "130000"
+    },
+    {
+      "id": 39,
+      "postcode": "DE1 1AA",
+      "city": "Derby",
+      "council": "Derby City Council",
+      "value": "170000"
+    },
+    {
+      "id": 40,
+      "postcode": "YO1 1AA",
+      "city": "York",
+      "council": "City of York Council",
+      "value": "280000"
+    },
+    {
+      "id": 41,
+      "postcode": "SW11 1AA",
+      "city": "London",
+      "council": "London Borough of Wandsworth",
+      "value": "470000"
+    },
+    {
+      "id": 42,
+      "postcode": "PL1 1AA",
+      "city": "Plymouth",
+      "council": "Plymouth City Council",
+      "value": "160000"
+    },
+    {
+      "id": 43,
+      "postcode": "LS2 9JT",
+      "city": "Leeds",
+      "council": "Leeds City Council",
+      "value": "230000"
     }
   ],
   "steps": [
