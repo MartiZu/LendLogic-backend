@@ -141,5 +141,125 @@
       "council": "Swansea City Council",
       "value": "175000"
     }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "title": "Assess Affordability",
+      "tasks": [
+        "Calculate upfront funds and potential borrowing.",
+        "Use an affordability calculator and get an agreement in principle (AIP) for added attractiveness."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Property Search",
+      "tasks": [
+        "Research areas and find properties through estate agents and online platforms."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Make an Offer",
+      "tasks": [
+        "Determine a suitable offer and conditions.",
+        "Consider advice from forums but avoid revealing tactics publicly."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Offer Accepted",
+      "tasks": [
+        "Celebrate the milestone but remain cautious.",
+        "Be aware of gazumping and gazanging risks."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mortgage Search",
+      "tasks": [
+        "Explore mortgage options beyond your current bank.",
+        "Use tools to find the best deals and obtain a mortgage illustration."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Choose a Conveyancing Firm",
+      "tasks": [
+        "Decide on a conveyancer for legal processes.",
+        "Ensure they are on major lenders' panels."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Mortgage Application",
+      "tasks": [
+        "Convert AIP to a full application.",
+        "Lender checks borrower and property suitability."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Legal Searches",
+      "tasks": [
+        "Solicitor conducts searches including local authority, drainage, and environmental checks."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Stay in Touch",
+      "tasks": [
+        "Communicate regularly with your solicitor.",
+        "Address any delays promptly."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Property Survey",
+      "tasks": [
+        "Choose a survey type based on property type and value.",
+        "Get quotes for potential repair work if issues are found."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Mortgage Offer",
+      "tasks": [
+        "Celebrate receiving a formal mortgage offer.",
+        "Verify accuracy and check for conditions."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Buildings Insurance",
+      "tasks": [
+        "Secure insurance after the exchange of contracts.",
+        "Ensure coverage matches the property's rebuild value."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Negotiate Completion Date",
+      "tasks": [
+        "Agree on a completion date with the seller.",
+        "Be flexible to accommodate both parties."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Exchange Contracts",
+      "tasks": [
+        "Hand over the deposit to the solicitor.",
+        "Sign the contract, creating a legally-binding agreement."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Completion",
+      "tasks": [
+        "Receive a completion statement from the solicitor.",
+        "Pay outstanding fees, complete final checks, and get the keys."
+      ]
+    }
   ]
 }
