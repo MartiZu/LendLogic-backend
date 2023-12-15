@@ -3,7 +3,7 @@
     {
       "name": "Jenny",
       "surname": "Smith",
-      "age": 35,
+      "age": 52,
       "email": "jenny.smith@example.com",
       "salary": "40000",
       "property_value": "200000",
@@ -22,7 +22,7 @@
         "monthly_payment": "800",
         "outstanding_balance": "150000",
         "interest_rate": "3.5",
-        "term_years": 25,
+        "term_years": 10,
         "next_payment_date": "2023-01-01",
         "insurance": {
           "has_insurance": true,
@@ -38,7 +38,7 @@
       "surname": "Johnson",
       "age": 28,
       "email": "kat.johnson@example.com",
-      "salary": "30000",
+      "salary": "40000",
       "property_value": "150000",
       "address": {
         "street": "456 Park Avenue",
@@ -407,7 +407,7 @@
     },
     {
       "id": 6,
-      "title": "Choose a Conveyancing Firm",
+      "title": "Conveyancing Fees",
       "tasks": [
         "Decide on a conveyancer for legal processes.",
         "Ensure they are on major lenders' panels."
@@ -462,7 +462,7 @@
     },
     {
       "id": 13,
-      "title": "Negotiate Completion Date",
+      "title": "Completion Date",
       "tasks": [
         "Agree on a completion date with the seller.",
         "Be flexible to accommodate both parties."
