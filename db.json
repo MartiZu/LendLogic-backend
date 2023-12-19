@@ -15,7 +15,7 @@
       "credit_score": 750,
       "mortgage": {
         "type": "Fixed Rate",
-        "fixed_term_length": "5 years",
+        "fixed_term": "5 years",
         "start_date": "2022-03-15",
         "status": "Outstanding",
         "address_type": "Primary Residence",
