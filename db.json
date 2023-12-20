@@ -1093,5 +1093,81 @@
         }
       ]
     }
+  ],
+  "mortgage_steps": [
+    {
+      "id": 1,
+      "title": "Early Repayment Charge:",
+      "tasks": [
+        "Penalty for repaying or overpaying mortgage during the tie-in period.",
+        "Percentage-based (e.g., 5% in year one, 4% in year two).",
+        "Consider remortgaging after the tie-in period to avoid this fee."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Deeds Release Fee:",
+      "tasks": [
+        "Paid to release property's title deeds to your solicitor.",
+        "Typically between £50 and £300, check original paperwork."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Arrangement Fee:",
+      "tasks": [
+        "Covers lender's administration costs.",
+        "Ranges from £1,000 to £2,000, consider upfront payment or adding to the mortgage."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Booking Fee (if applicable):",
+      "tasks": [
+        "Non-refundable fee to secure a fixed-rate, tracker, or discount deal.",
+        "Rare but may range from £100 to £300."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Valuation Fee:",
+      "tasks": [
+        "Often included in remortgage packages.",
+        "If not, expect to pay £300 to £500 for property valuation."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Conveyancing Fee:",
+      "tasks": [
+        "Legal work to remove original lender's interest and register the new lender.",
+        "Around £350, may be covered by the new lender."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Broker Fee (if applicable):",
+      "tasks": [
+        "Charged by brokers, ranging from £300 to 1% of the loan amount.",
+        "Some brokers are fee-free; negotiate fees based on commission."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "New Mortgage Repayments:",
+      "tasks": [
+        "Use Mortgage best buys tool to benchmark rates.",
+        "Calculate exact monthly payments using a mortgage calculator."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Considerations:",
+      "tasks": [
+        "Be cautious of low rates disguising high fees.",
+        "Check for any additional costs or fees not listed here.",
+        "Pay attention to the overall cost (fees + interest) of the mortgage."
+      ]
+    }
   ]
 }
