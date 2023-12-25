@@ -494,8 +494,8 @@
           "id": 1,
           "question": "What does AIP stand for in the context of mortgage affordability?",
           "options": [
-            "Affordability Interest Point",
-            "Agreement in Principle (AIP)"
+            { "id": 1, "text": "Affordability Interest Point" },
+            { "id": 2, "text": "Agreement in Principle (AIP)" }
           ],
           "correct_answer": "Agreement in Principle (AIP)"
         },
@@ -503,8 +503,11 @@
           "id": 2,
           "question": "What is the primary purpose of an affordability calculator?",
           "options": [
-            "To calculate future property values",
-            "To calculate upfront funds and potential borrowing"
+            { "id": 3, "text": "To calculate future property values" },
+            {
+              "id": 4,
+              "text": "To calculate upfront funds and potential borrowing"
+            }
           ],
           "correct_answer": "To calculate upfront funds and potential borrowing"
         },
@@ -512,8 +515,8 @@
           "id": 3,
           "question": "What is the main attraction of an AIP in the home-buying process?",
           "options": [
-            "It guarantees a lower interest rate",
-            "It adds attractiveness to your offer"
+            { "id": 5, "text": "It guarantees a lower interest rate" },
+            { "id": 6, "text": "It adds attractiveness to your offer" }
           ],
           "correct_answer": "It adds attractiveness to your offer"
         },
@@ -521,8 +524,8 @@
           "id": 4,
           "question": "What is the potential risk of relying solely on an AIP?",
           "options": [
-            "It guarantees loan approval",
-            "The actual mortgage terms may differ"
+            { "id": 7, "text": "It guarantees loan approval" },
+            { "id": 8, "text": "The actual mortgage terms may differ" }
           ],
           "correct_answer": "The actual mortgage terms may differ"
         }
@@ -535,23 +538,29 @@
           "id": 5,
           "question": "Where can you exclusively find properties during the property search process?",
           "options": [
-            "Through friends' recommendations only",
-            "Through estate agents and online platforms"
+            { "id": 9, "text": "Through friends' recommendations only" },
+            { "id": 10, "text": "Through estate agents and online platforms" }
           ],
           "correct_answer": "Through estate agents and online platforms"
         },
         {
           "id": 6,
           "question": "What should you avoid when researching areas for property search?",
-          "options": ["Reading online reviews", "Ignoring neighborhood safety"],
+          "options": [
+            { "id": 11, "text": "Reading online reviews" },
+            { "id": 12, "text": "Ignoring neighborhood safety" }
+          ],
           "correct_answer": "Ignoring neighborhood safety"
         },
         {
           "id": 7,
           "question": "What is the primary role of estate agents in property search?",
           "options": [
-            "Only to provide property listings",
-            "To assist in the buying process and negotiations"
+            { "id": 13, "text": "Only to provide property listings" },
+            {
+              "id": 14,
+              "text": "To assist in the buying process and negotiations"
+            }
           ],
           "correct_answer": "To assist in the buying process and negotiations"
         },
@@ -559,8 +568,11 @@
           "id": 8,
           "question": "Why is online research important during property search?",
           "options": [
-            "It is the only way to find property values",
-            "It provides access to a wide range of property listings"
+            { "id": 15, "text": "It is the only way to find property values" },
+            {
+              "id": 16,
+              "text": "It provides access to a wide range of property listings"
+            }
           ],
           "correct_answer": "It provides access to a wide range of property listings"
         }
@@ -573,8 +585,11 @@
           "id": 9,
           "question": "What is a key consideration when determining a suitable offer?",
           "options": [
-            "Offering the highest possible amount",
-            "Considering market conditions and property value"
+            { "id": 17, "text": "Offering the highest possible amount" },
+            {
+              "id": 18,
+              "text": "Considering market conditions and property value"
+            }
           ],
           "correct_answer": "Considering market conditions and property value"
         },
@@ -582,8 +597,8 @@
           "id": 10,
           "question": "What is the risk of revealing negotiation tactics publicly?",
           "options": [
-            "It speeds up the buying process",
-            "Others may use the same tactics against you"
+            { "id": 19, "text": "It speeds up the buying process" },
+            { "id": 20, "text": "Others may use the same tactics against you" }
           ],
           "correct_answer": "Others may use the same tactics against you"
         },
@@ -591,8 +606,11 @@
           "id": 11,
           "question": "Why is it important to seek advice from forums when making an offer?",
           "options": [
-            "Forums provide legally binding advice",
-            "Consideration of different perspectives can be helpful"
+            { "id": 21, "text": "Forums provide legally binding advice" },
+            {
+              "id": 22,
+              "text": "Consideration of different perspectives can be helpful"
+            }
           ],
           "correct_answer": "Forums provide legally binding advice"
         },
@@ -600,8 +618,11 @@
           "id": 12,
           "question": "What is the primary purpose of conditions in an offer?",
           "options": [
-            "To confuse the seller",
-            "To specify terms that must be met for the offer to be valid"
+            { "id": 23, "text": "To confuse the seller" },
+            {
+              "id": 24,
+              "text": "To specify terms that must be met for the offer to be valid"
+            }
           ],
           "correct_answer": "To specify terms that must be met for the offer to be valid"
         }
@@ -613,15 +634,21 @@
         {
           "id": 13,
           "question": "What is the primary emotion upon having an offer accepted?",
-          "options": ["Anxiety", "Celebration"],
+          "options": [
+            { "id": 25, "text": "Anxiety" },
+            { "id": 26, "text": "Celebration" }
+          ],
           "correct_answer": "Celebration"
         },
         {
           "id": 14,
           "question": "What is the risk associated with gazumping?",
           "options": [
-            "It guarantees a lower purchase price",
-            "Another buyer outbids and secures the property"
+            { "id": 27, "text": "It guarantees a lower purchase price" },
+            {
+              "id": 28,
+              "text": "Another buyer outbids and secures the property"
+            }
           ],
           "correct_answer": "It guarantees a lower purchase price"
         },
@@ -629,8 +656,11 @@
           "id": 15,
           "question": "Why is it important to remain cautious after an offer is accepted?",
           "options": [
-            "There are no potential risks at this stage",
-            "Risks such as gazumping and gazanging still exist"
+            { "id": 29, "text": "There are no potential risks at this stage" },
+            {
+              "id": 30,
+              "text": "Risks such as gazumping and gazanging still exist"
+            }
           ],
           "correct_answer": "Risks such as gazumping and gazanging still exist"
         },
@@ -638,10 +668,16 @@
           "id": 16,
           "question": "What does \"gazanging\" refer to in the home-buying process?",
           "options": [
-            "A celebratory dance after an offer is accepted",
-            "The seller pulling out of the sale after accepting an offer"
+            {
+              "id": 31,
+              "text": "A celebratory dance after an offer is accepted"
+            },
+            {
+              "id": 32,
+              "text": "The seller pulling out of the sale after accepting an offer"
+            }
           ],
-          "correct_answer": "A celebratory dance after an offer is accepted"
+          "correct_answer": "The seller pulling out of the sale after accepting an offer"
         }
       ]
     },
@@ -651,24 +687,33 @@
         {
           "id": 17,
           "question": "Why should you explore mortgage options beyond your current bank?",
-          "options": ["Loyalty to the current bank", "To find the best deals"],
+          "options": [
+            { "id": 33, "text": "Loyalty to the current bank" },
+            { "id": 34, "text": "To find the best deals" }
+          ],
           "correct_answer": "To find the best deals"
         },
         {
           "id": 18,
           "question": "What is the purpose of obtaining a mortgage illustration?",
           "options": [
-            "To decorate your home",
-            "To understand the details of the mortgage deal"
+            { "id": 35, "text": "To decorate your home" },
+            {
+              "id": 36,
+              "text": "To understand the details of the mortgage deal"
+            }
           ],
-          "correct_answer": "To decorate your home"
+          "correct_answer": "To understand the details of the mortgage deal"
         },
         {
           "id": 19,
           "question": "What is the first step in the mortgage search process?",
           "options": [
-            "Choose the first offer you receive",
-            "Explore mortgage options beyond your current bank"
+            { "id": 37, "text": "Choose the first offer you receive" },
+            {
+              "id": 38,
+              "text": "Explore mortgage options beyond your current bank"
+            }
           ],
           "correct_answer": "Explore mortgage options beyond your current bank"
         },
@@ -676,8 +721,11 @@
           "id": 20,
           "question": "How can you determine the best mortgage deals?",
           "options": [
-            "Stick to your current bank",
-            "Use tools to compare and find the best deals"
+            { "id": 39, "text": "Stick to your current bank" },
+            {
+              "id": 40,
+              "text": "Use tools to compare and find the best deals"
+            }
           ],
           "correct_answer": "Use tools to compare and find the best deals"
         }
@@ -690,8 +738,8 @@
           "id": 21,
           "question": "Why is it important to decide on a conveyancer for legal processes?",
           "options": [
-            "To increase legal fees",
-            "To ensure a smooth legal process"
+            { "id": 41, "text": "To increase legal fees" },
+            { "id": 42, "text": "To ensure a smooth legal process" }
           ],
           "correct_answer": "To ensure a smooth legal process"
         },
@@ -699,8 +747,8 @@
           "id": 22,
           "question": "What is a crucial factor in choosing a conveyancer?",
           "options": [
-            "Their popularity on social media",
-            "Ensuring they are on major lenders' panels"
+            { "id": 43, "text": "Their popularity on social media" },
+            { "id": 44, "text": "Ensuring they are on major lenders' panels" }
           ],
           "correct_answer": "Ensuring they are on major lenders' panels"
         },
@@ -708,8 +756,8 @@
           "id": 23,
           "question": "When should you choose a conveyancer in the home-buying process?",
           "options": [
-            "After completing all legal processes",
-            "At the beginning of the process"
+            { "id": 45, "text": "After completing all legal processes" },
+            { "id": 46, "text": "At the beginning of the process" }
           ],
           "correct_answer": "At the beginning of the process"
         },
@@ -717,8 +765,8 @@
           "id": 24,
           "question": "What is the primary purpose of conveyancing fees?",
           "options": [
-            "To increase the seller's profit",
-            "To cover legal costs"
+            { "id": 47, "text": "To increase the seller's profit" },
+            { "id": 48, "text": "To cover legal costs" }
           ],
           "correct_answer": "To cover legal costs"
         }
@@ -731,8 +779,8 @@
           "id": 25,
           "question": "What is the primary purpose of a mortgage application?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 49, "text": "To determine the buyer's suitability" },
+            { "id": 50, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the buyer's suitability"
         },
@@ -740,8 +788,8 @@
           "id": 26,
           "question": "What is the primary purpose of a lender's checks?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 51, "text": "To determine the buyer's suitability" },
+            { "id": 52, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the buyer's suitability"
         },
@@ -749,8 +797,8 @@
           "id": 27,
           "question": "What is the primary purpose of a property valuation?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's market value"
+            { "id": 53, "text": "To determine the buyer's suitability" },
+            { "id": 54, "text": "To determine the property's market value" }
           ],
           "correct_answer": "To determine the property's market value"
         },
@@ -758,8 +806,8 @@
           "id": 28,
           "question": "What is the primary purpose of a mortgage illustration?",
           "options": [
-            "To outline the terms of the mortgage offer",
-            "To determine the buyer's suitability"
+            { "id": 55, "text": "To outline the terms of the mortgage offer" },
+            { "id": 56, "text": "To determine the buyer's suitability" }
           ],
           "correct_answer": "To outline the terms of the mortgage offer"
         }
@@ -772,8 +820,11 @@
           "id": 29,
           "question": "What is the primary purpose of legal searches?",
           "options": [
-            "To determine the buyer's suitability",
-            "To uncover any legal issues with the property"
+            { "id": 57, "text": "To determine the buyer's suitability" },
+            {
+              "id": 58,
+              "text": "To uncover any legal issues with the property"
+            }
           ],
           "correct_answer": "To uncover any legal issues with the property"
         },
@@ -781,8 +832,11 @@
           "id": 30,
           "question": "What is the primary purpose of local authority searches?",
           "options": [
-            "To verify the property's compliance with local regulations",
-            "To determine the buyer's suitability"
+            {
+              "id": 59,
+              "text": "To verify the property's compliance with local regulations"
+            },
+            { "id": 60, "text": "To determine the buyer's suitability" }
           ],
           "correct_answer": "To verify the property's compliance with local regulations"
         },
@@ -790,8 +844,8 @@
           "id": 31,
           "question": "What is the primary purpose of drainage searches?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's suitability"
+            { "id": 61, "text": "To determine the buyer's suitability" },
+            { "id": 62, "text": "To determine the property's suitability" }
           ],
           "correct_answer": "To determine the property's suitability"
         },
@@ -799,8 +853,11 @@
           "id": 32,
           "question": "What is the primary purpose of environmental searches?",
           "options": [
-            "To determine the buyer's suitability",
-            "To assess potential environmental risks associated with the property"
+            { "id": 63, "text": "To determine the buyer's suitability" },
+            {
+              "id": 64,
+              "text": "To assess potential environmental risks associated with the property"
+            }
           ],
           "correct_answer": "To assess potential environmental risks associated with the property"
         }
@@ -813,8 +870,8 @@
           "id": 33,
           "question": "What is the primary purpose of regular communication with your solicitor?",
           "options": [
-            "To increase legal fees",
-            "To ensure a smooth legal process"
+            { "id": 65, "text": "To increase legal fees" },
+            { "id": 66, "text": "To ensure a smooth legal process" }
           ],
           "correct_answer": "To ensure a smooth legal process"
         },
@@ -822,8 +879,8 @@
           "id": 34,
           "question": "What is the primary purpose of addressing delays promptly?",
           "options": [
-            "To increase legal fees",
-            "To ensure a smooth legal process"
+            { "id": 67, "text": "To increase legal fees" },
+            { "id": 68, "text": "To ensure a smooth legal process" }
           ],
           "correct_answer": "To ensure a smooth legal process"
         },
@@ -831,8 +888,8 @@
           "id": 35,
           "question": "What is the primary purpose of addressing delays promptly?",
           "options": [
-            "To maintain transparency and collaboration",
-            "To increase legal fees"
+            { "id": 69, "text": "To maintain transparency and collaboration" },
+            { "id": 70, "text": "To increase legal fees" }
           ],
           "correct_answer": "To maintain transparency and collaboration"
         },
@@ -840,8 +897,8 @@
           "id": 36,
           "question": "What is the primary purpose of addressing delays promptly?",
           "options": [
-            "To expedite the buying process",
-            "To ensure a smooth legal process"
+            { "id": 71, "text": "To expedite the buying process" },
+            { "id": 72, "text": "To ensure a smooth legal process" }
           ],
           "correct_answer": "To expedite the buying process"
         }
@@ -854,17 +911,23 @@
           "id": 37,
           "question": "What is the primary purpose of a property survey?",
           "options": [
-            "To determine the buyer's suitability",
-            "To identify any structural issues with the property"
+            { "id": 73, "text": "To determine the buyer's suitability" },
+            {
+              "id": 74,
+              "text": "To identify any structural issues with the property"
+            }
           ],
           "correct_answer": "To identify any structural issues with the property"
         },
         {
           "id": 38,
-          "question": "What is the primary purpose of a homebuyer's report?",
+          "question": "Why is a homebuyer's report essential in the property buying process?",
           "options": [
-            "To determine if the buyer can be a homeowner",
-            "To assess the property's conditions"
+            {
+              "id": 75,
+              "text": "To determine if the buyer can be a homeowner"
+            },
+            { "id": 76, "text": "To assess the property's conditions" }
           ],
           "correct_answer": "To determine the property's suitability"
         },
@@ -872,17 +935,26 @@
           "id": 39,
           "question": "What is the primary purpose of a building survey?",
           "options": [
-            "To provide a detailed analysis of the property's structure",
-            "To determine the buyer can afford to pay the building's works"
+            {
+              "id": 77,
+              "text": "To provide a detailed analysis of the property's structure"
+            },
+            {
+              "id": 78,
+              "text": "To determine the buyer can afford to pay the building's works"
+            }
           ],
           "correct_answer": "To provide a detailed analysis of the property's structure"
         },
         {
           "id": 40,
-          "question": "What is the primary purpose of a snagging survey?",
+          "question": "Why is a snagging survey important, especially in new-build properties?",
           "options": [
-            "To identify if the buyer has any snags",
-            "To identify any defects or issues in a new-build property"
+            { "id": 79, "text": "To identify if the buyer has any snags" },
+            {
+              "id": 80,
+              "text": "To identify any defects or issues in a new-build property"
+            }
           ],
           "correct_answer": "To identify any defects or issues in a new-build property"
         }
@@ -895,8 +967,14 @@
           "id": 41,
           "question": "What is the primary purpose of a mortgage offer?",
           "options": [
-            "To outline the terms and conditions of the mortgage",
-            "To determine if the buyer is serious about the mortgage"
+            {
+              "id": 81,
+              "text": "To outline the terms and conditions of the mortgage"
+            },
+            {
+              "id": 82,
+              "text": "To determine if the buyer is serious about the mortgage"
+            }
           ],
           "correct_answer": "To outline the terms and conditions of the mortgage"
         },
@@ -904,8 +982,11 @@
           "id": 42,
           "question": "What is the primary purpose of verifying the accuracy of a mortgage offer?",
           "options": [
-            "To determine the buyer is the real owner of the property",
-            "To ensure the details match the agreed terms"
+            {
+              "id": 83,
+              "text": "To determine the buyer is the real owner of the property"
+            },
+            { "id": 84, "text": "To ensure the details match the agreed terms" }
           ],
           "correct_answer": "To ensure the details match the agreed terms"
         },
@@ -913,8 +994,8 @@
           "id": 43,
           "question": "What is the primary purpose of checking for conditions in a mortgage offer?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the mortgage's suitability"
+            { "id": 85, "text": "To determine the buyer's suitability" },
+            { "id": 86, "text": "To determine the mortgage's suitability" }
           ],
           "correct_answer": "To determine the mortgage's suitability"
         },
@@ -922,8 +1003,8 @@
           "id": 44,
           "question": "What is the primary purpose of checking for conditions in a mortgage offer?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the mortgage's suitability"
+            { "id": 87, "text": "To determine the buyer's suitability" },
+            { "id": 88, "text": "To determine the mortgage's suitability" }
           ],
           "correct_answer": "To determine the mortgage's suitability"
         }
@@ -936,8 +1017,8 @@
           "id": 45,
           "question": "What is the primary purpose of buildings insurance?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's suitability"
+            { "id": 89, "text": "To determine the buyer's suitability" },
+            { "id": 90, "text": "To determine the property's suitability" }
           ],
           "correct_answer": "To determine the property's suitability"
         },
@@ -945,28 +1026,34 @@
           "id": 46,
           "question": "What is the primary purpose of ensuring coverage matches the property's rebuild value?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's suitability"
+            { "id": 91, "text": "To determine the buyer's suitability" },
+            { "id": 92, "text": "To determine the property's suitability" }
           ],
           "correct_answer": "To determine the property's suitability"
         },
         {
           "id": 47,
-          "question": "What is the primary purpose of ensuring coverage matches the property's rebuild value?",
+          "question": "Why is it important to review and update buildings insurance regularly?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's suitability"
+            { "id": 93, "text": "To determine the buyer's suitability" },
+            {
+              "id": 94,
+              "text": "To ensure coverage reflects the property's current value"
+            }
           ],
-          "correct_answer": "To determine the property's suitability"
+          "correct_answer": "To ensure coverage reflects the property's current value"
         },
         {
           "id": 48,
-          "question": "What is the primary purpose of ensuring coverage matches the property's rebuild value?",
+          "question": "What is the primary purpose of liability coverage in buildings insurance?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the property's suitability"
+            { "id": 95, "text": "To determine the buyer's suitability" },
+            {
+              "id": 96,
+              "text": "To protect against claims for injury or damage on the property"
+            }
           ],
-          "correct_answer": "To determine the property's suitability"
+          "correct_answer": "To protect against claims for injury or damage on the property"
         }
       ]
     },
@@ -977,78 +1064,96 @@
           "id": 49,
           "question": "What is the primary purpose of agreeing on a completion date with the seller?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 97, "text": "To determine the buyer's suitability" },
+            { "id": 98, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the seller's suitability"
         },
         {
           "id": 50,
-          "question": "What is the primary purpose of being flexible to accommodate both parties?",
+          "question": "Why is it essential for the buyer to be flexible in accommodating both parties when setting a completion date?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 99, "text": "To determine the buyer's suitability" },
+            {
+              "id": 100,
+              "text": "To facilitate a smooth and mutually agreeable property handover"
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "To facilitate a smooth and mutually agreeable property handover"
         },
         {
           "id": 51,
-          "question": "What is the primary purpose of being flexible to accommodate both parties?",
+          "question": "What potential issues can arise if there is inflexibility regarding the completion date?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 101, "text": "To determine the buyer's suitability" },
+            {
+              "id": 102,
+              "text": "Delays and complications in the property transaction"
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Delays and complications in the property transaction"
         },
         {
           "id": 52,
-          "question": "What is the primary purpose of being flexible to accommodate both parties?",
+          "question": "How does agreeing on a realistic completion date contribute to a positive buyer-seller relationship?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 103, "text": "To determine the buyer's suitability" },
+            {
+              "id": 104,
+              "text": "Builds trust and cooperation between the parties involved"
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Builds trust and cooperation between the parties involved"
         }
       ]
     },
     {
-      "task": "Exchange Contracts",
+      "task": "Exchange of Contracts",
       "questions": [
         {
           "id": 53,
-          "question": "What is the primary purpose of handing over the deposit to the solicitor?",
+          "question": "What is the significance of the exchange of contracts in the home-buying process?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            {
+              "id": 105,
+              "text": "It signifies the completion of the property purchase"
+            },
+            { "id": 106, "text": "It determines the buyer's financial status" }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "It signifies the completion of the property purchase"
         },
         {
           "id": 54,
-          "question": "What is the primary purpose of signing the contract?",
+          "question": "What happens to the buyer's deposit at the exchange of contracts?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 107, "text": "It becomes the seller's profit" },
+            {
+              "id": 108,
+              "text": "It is usually forfeited if the buyer backs out"
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "It is usually forfeited if the buyer backs out"
         },
         {
           "id": 55,
-          "question": "What is the primary purpose of signing the contract?",
+          "question": "What is the primary purpose of setting a completion date during the exchange of contracts?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 109, "text": "To confuse the parties involved" },
+            {
+              "id": 110,
+              "text": "To agree on a date for the final property handover"
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "To agree on a date for the final property handover"
         },
         {
           "id": 56,
-          "question": "What is the primary purpose of signing the contract?",
+          "question": "What is the buyer's obligation after the exchange of contracts?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 111, "text": "No further obligations" },
+            { "id": 112, "text": "Completion of the purchase, as agreed" }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Completion of the purchase, as agreed"
         }
       ]
     },
@@ -1059,35 +1164,35 @@
           "id": 57,
           "question": "What is the primary purpose of receiving a completion statement from the solicitor?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 113, "text": "To determine the buyer's suitability" },
+            { "id": 114, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the seller's suitability"
         },
         {
           "id": 58,
-          "question": "What is the primary purpose of paying outstanding fees?",
+          "question": "Why is it crucial for the buyer to pay any outstanding fees as per the completion statement?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 115, "text": "To determine the buyer's suitability" },
+            { "id": 116, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the seller's suitability"
         },
         {
           "id": 59,
-          "question": "What is the primary purpose of completing final checks?",
+          "question": "What is the primary purpose of completing final checks before completion?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 117, "text": "To determine the buyer's suitability" },
+            { "id": 118, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the seller's suitability"
         },
         {
           "id": 60,
-          "question": "What is the primary purpose of getting the keys?",
+          "question": "Why is getting the keys a significant step in the completion process?",
           "options": [
-            "To determine the buyer's suitability",
-            "To determine the seller's suitability"
+            { "id": 119, "text": "To determine the buyer's suitability" },
+            { "id": 120, "text": "To determine the seller's suitability" }
           ],
           "correct_answer": "To determine the seller's suitability"
         }
