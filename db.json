@@ -1274,5 +1274,420 @@
         "Pay attention to the overall cost (fees + interest) of the mortgage."
       ]
     }
+  ],
+  "remortgage_quiz": [
+    {
+      "task": "Assess Remortgage Feasibility",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does LTV stand for in the context of remortgaging?",
+          "options": [
+            { "id": 1, "text": "Loan Term Verification" },
+            { "id": 2, "text": "Loan-to-Value ratio (LTV)" }
+          ],
+          "correct_answer": "Loan-to-Value ratio (LTV)"
+        },
+        {
+          "id": 2,
+          "question": "Why might someone consider remortgaging their property?",
+          "options": [
+            { "id": 3, "text": "To upgrade their home's energy efficiency" },
+            { "id": 4, "text": "To secure a better interest rate or terms" }
+          ],
+          "correct_answer": "To secure a better interest rate or terms"
+        },
+        {
+          "id": 3,
+          "question": "What is the main advantage of conducting a remortgage valuation?",
+          "options": [
+            {
+              "id": 5,
+              "text": "It determines the property's current market value"
+            },
+            { "id": 6, "text": "It predicts future property price trends" }
+          ],
+          "correct_answer": "It determines the property's current market value"
+        },
+        {
+          "id": 4,
+          "question": "How does the remortgaging process differ from the initial mortgage application?",
+          "options": [
+            { "id": 7, "text": "It involves a higher down payment" },
+            {
+              "id": 8,
+              "text": "It often requires less documentation and paperwork"
+            }
+          ],
+          "correct_answer": "It often requires less documentation and paperwork"
+        }
+      ]
+    },
+    {
+      "task": "Evaluate Remortgage Options",
+      "questions": [
+        {
+          "id": 5,
+          "question": "What is an early repayment charge in the context of remortgaging?",
+          "options": [
+            {
+              "id": 9,
+              "text": "A fee for paying off the mortgage ahead of schedule"
+            },
+            {
+              "id": 10,
+              "text": "A discount on the interest rate for early repayment"
+            }
+          ],
+          "correct_answer": "A fee for paying off the mortgage ahead of schedule"
+        },
+        {
+          "id": 6,
+          "question": "What is equity release, and how does it relate to remortgaging?",
+          "options": [
+            {
+              "id": 11,
+              "text": "It's a type of mortgage for first-time buyers"
+            },
+            {
+              "id": 12,
+              "text": "It involves accessing the value of your home to release cash"
+            }
+          ],
+          "correct_answer": "It involves accessing the value of your home to release cash"
+        },
+        {
+          "id": 7,
+          "question": "How can a homeowner use remortgaging to fund home improvements?",
+          "options": [
+            { "id": 13, "text": "By applying for a separate personal loan" },
+            {
+              "id": 14,
+              "text": "By increasing their mortgage to cover renovation costs"
+            }
+          ],
+          "correct_answer": "By increasing their mortgage to cover renovation costs"
+        },
+        {
+          "id": 8,
+          "question": "What is a remortgage broker, and how can they assist in the process?",
+          "options": [
+            {
+              "id": 15,
+              "text": "A professional who appraises the property's value"
+            },
+            {
+              "id": 16,
+              "text": "An intermediary who helps find and secure remortgage deals"
+            }
+          ],
+          "correct_answer": "An intermediary who helps find and secure remortgage deals"
+        }
+      ]
+    },
+    {
+      "task": "Assess Financial Implications",
+      "questions": [
+        {
+          "id": 9,
+          "question": "What factors should be considered when deciding whether to remortgage?",
+          "options": [
+            {
+              "id": 17,
+              "text": "Only the current interest rates in the market"
+            },
+            {
+              "id": 18,
+              "text": "Both the current interest rates and potential associated costs"
+            }
+          ],
+          "correct_answer": "Both the current interest rates and potential associated costs"
+        },
+        {
+          "id": 10,
+          "question": "Can one remortgage to consolidate debts, and how does it work?",
+          "options": [
+            {
+              "id": 19,
+              "text": "No, remortgaging is solely for property-related expenses"
+            },
+            {
+              "id": 20,
+              "text": "Yes, by incorporating outstanding debts into the new mortgage"
+            }
+          ],
+          "correct_answer": "Yes, by incorporating outstanding debts into the new mortgage"
+        },
+        {
+          "id": 11,
+          "question": "What is a fixed-rate remortgage, and how does it differ from a variable rate?",
+          "options": [
+            {
+              "id": 21,
+              "text": "It has a constant interest rate throughout the term"
+            },
+            { "id": 22, "text": "It fluctuates based on market interest rates" }
+          ],
+          "correct_answer": "It has a constant interest rate throughout the term"
+        },
+        {
+          "id": 12,
+          "question": "How does the remortgaging process impact the existing mortgage lender?",
+          "options": [
+            {
+              "id": 23,
+              "text": "The lender is not affected by the remortgage process"
+            },
+            {
+              "id": 24,
+              "text": "The borrower repays the existing mortgage, and a new lender takes over"
+            }
+          ],
+          "correct_answer": "The borrower repays the existing mortgage, and a new lender takes over"
+        }
+      ]
+    },
+    {
+      "task": "Plan for Future Home Expenses",
+      "questions": [
+        {
+          "id": 13,
+          "question": "What is a product fee in the context of remortgaging, and is it avoidable?",
+          "options": [
+            {
+              "id": 25,
+              "text": "A fee for purchasing mortgage-related products"
+            },
+            {
+              "id": 26,
+              "text": "A fee associated with specific mortgage deals, and it may be avoidable"
+            }
+          ],
+          "correct_answer": "A fee associated with specific mortgage deals, and it may be avoidable"
+        },
+        {
+          "id": 14,
+          "question": "Can one remortgage a property that has decreased in value since the original mortgage?",
+          "options": [
+            {
+              "id": 27,
+              "text": "No, remortgaging is only applicable to appreciating properties"
+            },
+            {
+              "id": 28,
+              "text": "Yes, but it may impact the loan-to-value ratio and available deals"
+            }
+          ],
+          "correct_answer": "Yes, but it may impact the loan-to-value ratio and available deals"
+        },
+        {
+          "id": 15,
+          "question": "How does credit score play a role in the remortgaging approval process?",
+          "options": [
+            { "id": 29, "text": "It has no impact on remortgaging approval" },
+            {
+              "id": 30,
+              "text": "A good credit score may result in better remortgage deals and terms"
+            }
+          ],
+          "correct_answer": "A good credit score may result in better remortgage deals and terms"
+        },
+        {
+          "id": 16,
+          "question": "What is a cash-out remortgage, and for what purposes can the released funds be used?",
+          "options": [
+            {
+              "id": 31,
+              "text": "It involves withdrawing cash from the property's equity, and funds can be used for any purpose"
+            },
+            {
+              "id": 32,
+              "text": "It's a cash reward for completing the remortgage process"
+            }
+          ],
+          "correct_answer": "It involves withdrawing cash from the property's equity, and funds can be used for any purpose"
+        }
+      ]
+    },
+    {
+      "task": "Optimize Long-Term Financial Strategy",
+      "questions": [
+        {
+          "id": 17,
+          "question": "How does the length of the remortgage term affect monthly repayments?",
+          "options": [
+            {
+              "id": 33,
+              "text": "Shorter terms result in lower monthly repayments"
+            },
+            {
+              "id": 34,
+              "text": "Longer terms may lead to lower monthly repayments but higher overall interest payments"
+            }
+          ],
+          "correct_answer": "Longer terms may lead to lower monthly repayments but higher overall interest payments"
+        },
+        {
+          "id": 18,
+          "question": "What is the significance of the remortgage interest rate, and how can it impact overall costs?",
+          "options": [
+            {
+              "id": 35,
+              "text": "Interest rates have no impact on overall costs"
+            },
+            {
+              "id": 36,
+              "text": "Lower interest rates can result in reduced overall repayment costs"
+            }
+          ],
+          "correct_answer": "Lower interest rates can result in reduced overall repayment costs"
+        },
+        {
+          "id": 19,
+          "question": "Can one remortgage multiple times, and are there any potential drawbacks?",
+          "options": [
+            {
+              "id": 37,
+              "text": "No, remortgaging multiple times is not allowed"
+            },
+            {
+              "id": 38,
+              "text": "Yes, but it may involve additional fees and impact credit scores"
+            }
+          ],
+          "correct_answer": "Yes, but it may involve additional fees and impact credit scores"
+        },
+        {
+          "id": 20,
+          "question": "How can one determine if remortgaging is a financially sound decision for their specific situation?",
+          "options": [
+            { "id": 39, "text": "By solely considering current market trends" },
+            {
+              "id": 40,
+              "text": "By assessing individual circumstances, including existing rates, fees, and financial goals"
+            }
+          ],
+          "correct_answer": "By assessing individual circumstances, including existing rates, fees, and financial goals"
+        }
+      ]
+    },
+    {
+      "task": "Navigate Remortgage Procedures",
+      "questions": [
+        {
+          "id": 21,
+          "question": "What is a remortgage in-principle offer, and how does it differ from a mortgage in-principle offer?",
+          "options": [
+            {
+              "id": 41,
+              "text": "It guarantees loan approval for any property"
+            },
+            {
+              "id": 42,
+              "text": "It's a conditional offer based on the current property and existing mortgage"
+            }
+          ],
+          "correct_answer": "It's a conditional offer based on the current property and existing mortgage"
+        },
+        {
+          "id": 22,
+          "question": "In what scenarios might someone consider a remortgage over a home equity loan?",
+          "options": [
+            { "id": 43, "text": "For short-term financial needs" },
+            {
+              "id": 44,
+              "text": "When seeking a fixed lump sum for a specific purpose"
+            }
+          ],
+          "correct_answer": "When seeking a fixed lump sum for a specific purpose"
+        },
+        {
+          "id": 23,
+          "question": "What is the role of the loan-to-value (LTV) ratio in remortgaging, and how does it impact available deals?",
+          "options": [
+            { "id": 45, "text": "LTV has no impact on remortgaging deals" },
+            {
+              "id": 46,
+              "text": "A lower LTV ratio may lead to better deals and lower interest rates"
+            }
+          ],
+          "correct_answer": "A lower LTV ratio may lead to better deals and lower interest rates"
+        },
+        {
+          "id": 24,
+          "question": "Can one switch from a variable rate mortgage to a fixed-rate mortgage during the remortgaging process?",
+          "options": [
+            { "id": 47, "text": "No, the mortgage type must remain unchanged" },
+            {
+              "id": 48,
+              "text": "Yes, it's possible to switch to a different mortgage type"
+            }
+          ],
+          "correct_answer": "Yes, it's possible to switch to a different mortgage type"
+        }
+      ]
+    },
+    {
+      "task": "Enhance Financial Flexibility",
+      "questions": [
+        {
+          "id": 25,
+          "question": "How does the remortgaging process impact the homeowner's credit score?",
+          "options": [
+            { "id": 49, "text": "It has no effect on the credit score" },
+            {
+              "id": 50,
+              "text": "The credit score may be temporarily affected due to credit checks"
+            }
+          ],
+          "correct_answer": "The credit score may be temporarily affected due to credit checks"
+        },
+        {
+          "id": 26,
+          "question": "Is there a way to minimize the impact on the credit score during the remortgaging process?",
+          "options": [
+            {
+              "id": 51,
+              "text": "No, the impact on the credit score is unavoidable"
+            },
+            {
+              "id": 52,
+              "text": "Yes, by spacing out credit checks and financial activities"
+            }
+          ],
+          "correct_answer": "Yes, by spacing out credit checks and financial activities"
+        },
+        {
+          "id": 27,
+          "question": "What role does the homeowner's payment history play in the remortgaging approval process?",
+          "options": [
+            {
+              "id": 53,
+              "text": "Payment history has no impact on remortgaging approval"
+            },
+            {
+              "id": 54,
+              "text": "A positive payment history can enhance remortgaging approval chances"
+            }
+          ],
+          "correct_answer": "A positive payment history can enhance remortgaging approval chances"
+        },
+        {
+          "id": 33,
+          "question": "Can remortgaging be a viable option for homeowners with fluctuating income?",
+          "options": [
+            {
+              "id": 55,
+              "text": "No, remortgaging is suitable only for stable income scenarios"
+            },
+            {
+              "id": 56,
+              "text": "Yes, it can provide flexibility by adjusting terms based on income changes"
+            }
+          ],
+          "correct_answer": "Yes, it can provide flexibility by adjusting terms based on income changes"
+        }
+      ]
+    }
   ]
 }
