@@ -1017,8 +1017,11 @@
           "id": 45,
           "question": "What is the primary purpose of buildings insurance?",
           "options": [
-            { "id": 89, "text": "To determine the buyer's suitability" },
-            { "id": 90, "text": "To determine the property's suitability" }
+            { "id": 89, "text": "To determine the property's suitability" },
+            {
+              "id": 90,
+              "text": "Insurance safeguards the property against unforeseen events, securing the investment made by the buyer"
+            }
           ],
           "correct_answer": "To determine the property's suitability"
         },
@@ -1026,7 +1029,10 @@
           "id": 46,
           "question": "What is the primary purpose of ensuring coverage matches the property's rebuild value?",
           "options": [
-            { "id": 91, "text": "To determine the buyer's suitability" },
+            {
+              "id": 91,
+              "text": "Ensuring coverage aligns with rebuild value guarantees adequate protection in case of damage or loss"
+            },
             { "id": 92, "text": "To determine the property's suitability" }
           ],
           "correct_answer": "To determine the property's suitability"
@@ -1035,7 +1041,10 @@
           "id": 47,
           "question": "Why is it important to review and update buildings insurance regularly?",
           "options": [
-            { "id": 93, "text": "To determine the buyer's suitability" },
+            {
+              "id": 93,
+              "text": "Regular updates prevent underinsurance and ensure adequate protection in dynamic property markets"
+            },
             {
               "id": 94,
               "text": "To ensure coverage reflects the property's current value"
@@ -1064,8 +1073,11 @@
           "id": 49,
           "question": "What is the primary purpose of agreeing on a completion date with the seller?",
           "options": [
-            { "id": 97, "text": "To determine the buyer's suitability" },
-            { "id": 98, "text": "To determine the seller's suitability" }
+            { "id": 97, "text": "To determine the seller's suitability" },
+            {
+              "id": 98,
+              "text": "Agreement on the completion date is crucial for coordinating the smooth transfer of property ownership"
+            }
           ],
           "correct_answer": "To determine the seller's suitability"
         },
@@ -1073,7 +1085,10 @@
           "id": 50,
           "question": "Why is it essential for the buyer to be flexible in accommodating both parties when setting a completion date?",
           "options": [
-            { "id": 99, "text": "To determine the buyer's suitability" },
+            {
+              "id": 99,
+              "text": "Flexibility fosters cooperation, reducing the likelihood of conflicts and ensuring a positive transaction experience"
+            },
             {
               "id": 100,
               "text": "To facilitate a smooth and mutually agreeable property handover"
@@ -1085,10 +1100,13 @@
           "id": 51,
           "question": "What potential issues can arise if there is inflexibility regarding the completion date?",
           "options": [
-            { "id": 101, "text": "To determine the buyer's suitability" },
+            {
+              "id": 101,
+              "text": "Delays and complications in the property transaction"
+            },
             {
               "id": 102,
-              "text": "Delays and complications in the property transaction"
+              "text": "Inflexibility may lead to disputes and hinder the timely completion of the property sale"
             }
           ],
           "correct_answer": "Delays and complications in the property transaction"
@@ -1097,13 +1115,16 @@
           "id": 52,
           "question": "How does agreeing on a realistic completion date contribute to a positive buyer-seller relationship?",
           "options": [
-            { "id": 103, "text": "To determine the buyer's suitability" },
             {
               "id": 104,
-              "text": "Builds trust and cooperation between the parties involved"
+              "text": "By aligning expectations and respecting each other's time frames, both parties can build a solid foundation for a mutually beneficial transaction."
+            },
+            {
+              "id": 103,
+              "text": "It demonstrates a commitment to professionalism and cooperation, fostering trust between the parties involved."
             }
           ],
-          "correct_answer": "Builds trust and cooperation between the parties involved"
+          "correct_answer": "It demonstrates a commitment to professionalism and cooperation, fostering trust between the parties involved."
         }
       ]
     },
@@ -1114,11 +1135,11 @@
           "id": 53,
           "question": "What is the significance of the exchange of contracts in the home-buying process?",
           "options": [
+            { "id": 106, "text": "It determines the buyer's financial status" },
             {
               "id": 105,
               "text": "It signifies the completion of the property purchase"
-            },
-            { "id": 106, "text": "It determines the buyer's financial status" }
+            }
           ],
           "correct_answer": "It signifies the completion of the property purchase"
         },
@@ -1126,34 +1147,46 @@
           "id": 54,
           "question": "What happens to the buyer's deposit at the exchange of contracts?",
           "options": [
-            { "id": 107, "text": "It becomes the seller's profit" },
+            {
+              "id": 107,
+              "text": "It is securely held in escrow, ensuring both parties' financial security throughout the transaction."
+            },
             {
               "id": 108,
-              "text": "It is usually forfeited if the buyer backs out"
+              "text": "The deposit functions as a financial assurance, reinforcing the buyer's dedication, and is forfeited if they fail to honor the agreed terms."
             }
           ],
-          "correct_answer": "It is usually forfeited if the buyer backs out"
+          "correct_answer": "It is securely held in escrow, ensuring both parties' financial security throughout the transaction."
         },
         {
           "id": 55,
           "question": "What is the primary purpose of setting a completion date during the exchange of contracts?",
           "options": [
-            { "id": 109, "text": "To confuse the parties involved" },
+            {
+              "id": 109,
+              "text": "To create a definitive timeline for the final property handover, minimizing uncertainties and facilitating a seamless transition."
+            },
             {
               "id": 110,
-              "text": "To agree on a date for the final property handover"
+              "text": "It introduces a structured plan for the conclusive stages of the property transfer, reducing ambiguity and enhancing clarity in the transaction process."
             }
           ],
-          "correct_answer": "To agree on a date for the final property handover"
+          "correct_answer": "To create a definitive timeline for the final property handover, minimizing uncertainties and facilitating a seamless transition."
         },
         {
           "id": 56,
           "question": "What is the buyer's obligation after the exchange of contracts?",
           "options": [
-            { "id": 111, "text": "No further obligations" },
-            { "id": 112, "text": "Completion of the purchase, as agreed" }
+            {
+              "id": 111,
+              "text": "Upon contract exchange, the buyer is obligated to fulfill the terms stipulated in the contract, ensuring a smooth transition towards completion."
+            },
+            {
+              "id": 112,
+              "text": "Their responsibility extends to ensuring compliance with the agreed-upon terms, setting the stage for the eventual completion of the purchase."
+            }
           ],
-          "correct_answer": "Completion of the purchase, as agreed"
+          "correct_answer": "Their responsibility extends to ensuring compliance with the agreed-upon terms, setting the stage for the eventual completion of the purchase."
         }
       ]
     },
@@ -1164,37 +1197,61 @@
           "id": 57,
           "question": "What is the primary purpose of receiving a completion statement from the solicitor?",
           "options": [
-            { "id": 113, "text": "To determine the buyer's suitability" },
-            { "id": 114, "text": "To determine the seller's suitability" }
+            {
+              "id": 113,
+              "text": "To scrutinize financial details, confirming adherence to agreed terms and guaranteeing a financially sound completion."
+            },
+            {
+              "id": 114,
+              "text": "It serves as a meticulous review of financial transactions, ensuring accuracy and validating the seller's financial integrity in the completion process."
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "It serves as a meticulous review of financial transactions, ensuring accuracy and validating the seller's financial integrity in the completion process."
         },
         {
           "id": 58,
           "question": "Why is it crucial for the buyer to pay any outstanding fees as per the completion statement?",
           "options": [
-            { "id": 115, "text": "To determine the buyer's suitability" },
-            { "id": 116, "text": "To determine the seller's suitability" }
+            {
+              "id": 115,
+              "text": "Prompt payment of outstanding fees signifies the buyer's commitment to a fair and equitable completion, fostering a positive relationship with the seller."
+            },
+            {
+              "id": 116,
+              "text": "The payment of outstanding fees is a pivotal step in validating the buyer's financial responsibility and dedication to the completion process."
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Prompt payment of outstanding fees signifies the buyer's commitment to a fair and equitable completion, fostering a positive relationship with the seller."
         },
         {
           "id": 59,
           "question": "What is the primary purpose of completing final checks before completion?",
           "options": [
-            { "id": 117, "text": "To determine the buyer's suitability" },
-            { "id": 118, "text": "To determine the seller's suitability" }
+            {
+              "id": 117,
+              "text": "Final checks ensure that all contractual obligations are met, providing a comprehensive evaluation of the property's readiness for handover."
+            },
+            {
+              "id": 118,
+              "text": "To meticulously examine all elements of the property transaction, confirming the seller's compliance with agreed-upon terms."
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Final checks ensure that all contractual obligations are met, providing a comprehensive evaluation of the property's readiness for handover."
         },
         {
           "id": 60,
           "question": "Why is getting the keys a significant step in the completion process?",
           "options": [
-            { "id": 119, "text": "To determine the buyer's suitability" },
-            { "id": 120, "text": "To determine the seller's suitability" }
+            {
+              "id": 119,
+              "text": "The act of receiving the keys represents the conclusive handover of the property, confirming the buyer's right to possession."
+            },
+            {
+              "id": 120,
+              "text": "Receiving the keys symbolizes the official transfer of ownership, marking the successful culmination of the property transaction."
+            }
           ],
-          "correct_answer": "To determine the seller's suitability"
+          "correct_answer": "Receiving the keys symbolizes the official transfer of ownership, marking the successful culmination of the property transaction."
         }
       ]
     }
